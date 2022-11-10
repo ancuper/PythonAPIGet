@@ -1,4 +1,3 @@
-
 from ctypes import *
  
 #load the shared object file

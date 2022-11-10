@@ -24,7 +24,6 @@ def check():
 
     return json.dumps(return_dict, ensure_ascii=False)
 
-
 def tt(name, age):
     result_str = "%sXX%sX" % (name, age)
     return result_str
